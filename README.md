@@ -6,10 +6,10 @@
 </a></div>
 
 <div dir="auto"><br> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Ubiratan-Jv" src="" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;" width="40" height="30" align="middle"></a>  
+  <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Ubiratan-Jv" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;" width="40" height="30" align="middle"></a>  
 </div>
 <div dir="auto"><br> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Ubiratan-Jv" src="" data-canonical-href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="max-width: 100%;" width="40" height="30" align="middle"></a>  
+  <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Ubiratan-Jv" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" data-canonical-href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="max-width: 100%;" width="40" height="30" align="middle"></a>  
 </div>
 
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
