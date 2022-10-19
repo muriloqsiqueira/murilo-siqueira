@@ -5,17 +5,15 @@
   <img src="https://camo.githubusercontent.com/f4198ab83fce24b1b644dd673edc7dbc64cfa049c4693f3c153a02a9f154bf19/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d756269726174616e2d6d6f747461266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubiratan-motta&amp;layout=compact&amp;langs_count=7&amp;theme=radical" style="max-width: 100%;" height="160em">
 </a></div>
 
-<div dir="auto"><br> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Ubiratan-Jv" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;" width="40" height="30" align="middle"></a>  
-</div>
-<div dir="auto"><br> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Ubiratan-Jv" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" data-canonical-href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="max-width: 100%;" width="40" height="30" align="middle"></a>  
+<div style = "display: inline_block"><br>
+  img align= "center" alt="Murilo_C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 </div>
 
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
             <i class="devicon-c-plain"></i>
+  
           
 
             
