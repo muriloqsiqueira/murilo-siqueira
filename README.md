@@ -6,7 +6,7 @@
 </a></div>
 
 <div style = "display: inline_block"><br>
-  <img align= "center" alt="Murilo_C" heigth="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align= "center" alt="Murilo_C" heigth="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align= "center" alt="Murilo_CPlus" heigth="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align= "center" alt="Murilo_C" heigth="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align= "center" alt="Murilo_Html" heigth="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
